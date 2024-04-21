@@ -16,7 +16,7 @@
   topic: Topic
   description: More Info
 
-- title:  Prof Jia Li 
+- title:  Prof. Jia Li 
   name: Name-3
   subtitle: Penn State University
   img: jli.png
@@ -26,22 +26,22 @@
   description: More Info
   
   
-- title: Prof Lan Wang 
+- title: Prof. Lan Wang 
   name: Name-4
   subtitle: University of Miami
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: wang.png
+  thumbnail: wang.png
   alt: Picture of TBD
   topic: Topic
   description: More Info
   
   
   
-- title: Prof Jiwei Zhao 
+- title: Prof. Jiwei Zhao 
   name: Name-5
   subtitle: University of Wisconsin-Madison
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: JiweiZhao.jpg
+  thumbnail: JiweiZhao.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
