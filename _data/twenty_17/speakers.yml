@@ -1,34 +1,34 @@
-- title: Name
+- title: Prof. Regina Liu
   name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  subtitle: Rutgers University
+  img: Regina_Liu.jpg
+  thumbnail: Regina_Liu.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
+- title: Prof. Yanyuan Ma
   name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  subtitle: Penn State University
+  img: malaoshi.jpg
+  thumbnail: malaoshi.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
+- title:  Prof Jia Li 
   name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  subtitle: Penn State University
+  img: jli.png
+  thumbnail: jli.png
   alt: Picture of TBD
   topic: Topic
   description: More Info
   
   
-- title: Name
+- title: Prof Lan Wang 
   name: Name-4
-  subtitle: Position
+  subtitle: University of Miami
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -37,9 +37,9 @@
   
   
   
-- title: Name
+- title: Prof Jiwei Zhao 
   name: Name-5
-  subtitle: Position
+  subtitle: University of Wisconsin-Madison
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
