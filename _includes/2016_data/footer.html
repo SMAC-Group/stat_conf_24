@@ -18,13 +18,17 @@ footer {
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <span class="copyright">© {{ 'now' | date: "%Y" }} <a href="https://github.com/melvinchng/event-jekyll-theme">Event Jekyll Theme</a> by <a href="http://melvinchng.github.io">Melvin Ch'ng</a>,<br>All Rights Reserved.</span>
+                <span class="copyright">© Data Analytics Lab {{ 'now' | date: "%Y" }} 
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
+                  
+                    {% comment %}
                     {% for network in site.social %}
                         <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
                     {% endfor %}
+                    
+                      {% endcomment %}
                 </ul>
             </div>
         </div>
