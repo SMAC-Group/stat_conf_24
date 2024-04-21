@@ -1,17 +1,17 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: Stéphane Guerrier
+  name: Name-6
+  subtitle: University of Geneva
+  img: stephane.jpeg
+  thumbnail: stephane.jpeg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: Maria-Pia Victoria-Feser
+  name: Name-7
+  subtitle: University of Bologona
+  img: mariapia.jpg
+  thumbnail: mariapia.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
