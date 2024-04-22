@@ -1,4 +1,4 @@
-- title: Stéphane Guerrier
+- title: <a href="https://www.unige.ch/gsem/en/research/faculty/all/stephane-guerrier/" target="_blank">Prof. Stéphane Guerrier</a> 
   name: Name-6
   subtitle: University of Geneva
   img: stephane.jpeg
@@ -6,12 +6,56 @@
   alt: Picture of TBD
   topic: Topic
   description: More Info
-
-- title: Maria-Pia Victoria-Feser
+  
+  
+  
+- title: <a href="https://www.lucainsolia.com/" target="_blank">Dr. Luca Insolia</a> 
   name: Name-7
-  subtitle: University of Bologona
-  img: mariapia.jpg
-  thumbnail: mariapia.jpg
+  subtitle: University of Geneva 
+  img: lucaa.png
+  thumbnail: lucaa.png
   alt: Picture of TBD
   topic: Topic
   description: More Info
+
+- title: <a href="https://mucyo.netlify.app/ " target="_blank">Dr. Mucyo Karemera</a> 
+  name: Name-7
+  subtitle: University of Geneva 
+  img: mucyo3.png
+  thumbnail: mucyo3.png
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+  
+- title: <a href="https://www.samorso.ch/ " target="_blank">Dr. Samuel Orso</a> 
+  name: Name-7
+  subtitle: University of Geneva 
+  img: samsam.png
+  thumbnail: samsam.png
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+
+
+  
+- title: <a href="https://lionelvoirol.com/" target="_blank">Lionel Voirol</a> 
+  name: Name-7
+  subtitle: University of Geneva 
+  img: lvoirol2.png
+  thumbnail: lvoirol2.png
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+  
+- title: <a href="https://yumingzhang.com/" target="_blank">Yuming Zhang</a> 
+  name: Name-7
+  subtitle: University of Geneva 
+  img: zahnglaoshi.png
+  thumbnail: zahnglaoshi.png
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
