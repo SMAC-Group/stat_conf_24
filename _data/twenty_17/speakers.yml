@@ -1,59 +1,78 @@
-- title: <a href="https://science.psu.edu/stat/people/jol2 " target="_blank"> Prof. Jia Li </a>  
+- title: <a href="https://dbmi.hms.harvard.edu/people/tianxi-cai" target="_blank">Prof. Tianxi Cai</a>  
   name: Name-3
-  subtitle: Penn State University
-  img: jili2.png
-  thumbnail: jili2.png
+  subtitle: Harvard Medical School, USA
+  img: tianxi6.jpg
+  thumbnail: tianxi6.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
   
-- title: <a href="https://statistics.rutgers.edu/people-pages/faculty/people/391-regina-y-liu " target="_blank">Prof. Regina Liu</a> 
-  name: Name-1
-  subtitle: Rutgers University
-  img: Regina_Liu_3.jpg
-  thumbnail: Regina_Liu_3.jpg
+- title: <a href="https://science.psu.edu/stat/people/fxc11" target="_blank"> Prof. Francesca Chiaromonte </a>  
+  name: Name-3
+  subtitle: Pennsylvania State University, USA
+  img: chiaromonte3.jpg
+  thumbnail: chiaromonte3.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: <a href="https://epgl-pharma.wixsite.com/pharm-biochemistry/head-of-the-group" target="_blank"> Prof. Leonardo Scapozza </a>  
+  name: Name-3
+  subtitle: University of Geneva, Switzerland
+  img: scapozza3.jpg
+  thumbnail: scapozza3.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title:  <a href="https://sites.psu.edu/yanyuanma/ " target="_blank">Prof. Yanyuan Ma</a>  
-  name: Name-2
-  subtitle: Penn State University
-  img: malaoshi.jpg
-  thumbnail: malaoshi.jpg
+- title: <a href="https://robertomolinari.github.io/" target="_blank"> Prof. Roberto Molinari</a>  
+  name: Name-3
+  subtitle: Auburn University, USA
+  img: rob4.jpg
+  thumbnail: rob4.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: <a href="https://www.gcoqueret.com/" target="_blank"> Prof. Guillaume Coqueret</a>  
+  name: Name-3
+  subtitle: EM Lyon, France
+  img: coqueret3.jpg
+  thumbnail: coqueret3.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: <a href="https://linjunz.github.io/ " target="_blank"> Prof. Linjun Zhang </a>  
+  name: Name-3
+  subtitle: Rutgers University, USA
+  img: linjun6.jpg
+  thumbnail: linjun6.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
 
-  
-  
-- title: <a href="https://people.miami.edu/profile/605e4d5a9dea4152e892fae1494cbe6b" target="_blank" >Prof. Lan Wang</a>
-  name: Name-4
-  subtitle: University of Miami
-  img: wang2.png
-  thumbnail: wang2.png
+
+
+
+- title: <a href="https://doudouzhou.github.io/" target="_blank"> Prof. Doudou Zhou </a>  
+  name: Name-3
+  subtitle: National University of Singapore, Singapore
+  img: doudou4.jpg
+  thumbnail: doudou4.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
   
-- title: <a href="https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/xu/"  target="_blank" >Prof. Haotian Xu</a>    
-  name: Name-6
-  subtitle: University of Warwick
-  img: haotian3.png
-  thumbnail: haotian3.png
+- title: <a href="https://giuseppealfonzetti.github.io/" target="_blank">Dr. Giuseppe Alfonzetti</a>  
+  name: Name-3
+  subtitle: University of Udine, Italy
+  img: giuseppe2.jpg
+  thumbnail: giuseppe2.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
   
-  
-- title: <a href="https://biostat.wiscweb.wisc.edu/staff/zhao-jiwei/"  target="_blank" >Prof. Jiwei Zhao</a>    
-  name: Name-5
-  subtitle: University of Wisconsin-Madison
-  img: JiweiZhao2.jpg
-  thumbnail: JiweiZhao2.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
-  
-  
+
+
