@@ -17,7 +17,14 @@
   topic: Topic
   description: More Info
 
-  
+- title: <a href="https://dbmi.hms.harvard.edu/people/mohammed-moro" target="_blank">Mohammed Moro</a>  
+  name: Name-3
+  subtitle: Harvard Medical School, USA
+  img: moro2.jpg
+  thumbnail: moro2.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
   
   
 - title: <a href="https://www.lucainsolia.com/" target="_blank">Dr. Luca Insolia</a> 
